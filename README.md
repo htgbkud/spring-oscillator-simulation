@@ -49,7 +49,7 @@ dv/dt = −(k/m) · x
 spring-oscillator-simulation/
 ├── src/
 │   └── spring_oscillator.py
+├── .gitignore
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 
